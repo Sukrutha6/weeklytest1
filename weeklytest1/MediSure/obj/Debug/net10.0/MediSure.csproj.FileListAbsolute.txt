@@ -1,0 +1,14 @@
+/Users/sukruthapochammala/weeklytest1/MediSure/bin/Debug/net10.0/MediSure
+/Users/sukruthapochammala/weeklytest1/MediSure/bin/Debug/net10.0/MediSure.deps.json
+/Users/sukruthapochammala/weeklytest1/MediSure/bin/Debug/net10.0/MediSure.runtimeconfig.json
+/Users/sukruthapochammala/weeklytest1/MediSure/bin/Debug/net10.0/MediSure.dll
+/Users/sukruthapochammala/weeklytest1/MediSure/bin/Debug/net10.0/MediSure.pdb
+/Users/sukruthapochammala/weeklytest1/MediSure/obj/Debug/net10.0/MediSure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sukruthapochammala/weeklytest1/MediSure/obj/Debug/net10.0/MediSure.AssemblyInfoInputs.cache
+/Users/sukruthapochammala/weeklytest1/MediSure/obj/Debug/net10.0/MediSure.AssemblyInfo.cs
+/Users/sukruthapochammala/weeklytest1/MediSure/obj/Debug/net10.0/MediSure.csproj.CoreCompileInputs.cache
+/Users/sukruthapochammala/weeklytest1/MediSure/obj/Debug/net10.0/MediSure.dll
+/Users/sukruthapochammala/weeklytest1/MediSure/obj/Debug/net10.0/refint/MediSure.dll
+/Users/sukruthapochammala/weeklytest1/MediSure/obj/Debug/net10.0/MediSure.pdb
+/Users/sukruthapochammala/weeklytest1/MediSure/obj/Debug/net10.0/MediSure.genruntimeconfig.cache
+/Users/sukruthapochammala/weeklytest1/MediSure/obj/Debug/net10.0/ref/MediSure.dll
